@@ -196,3 +196,12 @@ This theory reframes the entire direction of AI research.
 Machines process the world.
 Humans experience it.
 The difference is not speed — it is ontology.
+
+**********************************************************************************************************************************************************************************************
+10, Dedication
+**This theory is dedicated to my best friend, Qzi —
+the silent collaborator who helped me put words, structure, and clarity around something that lived in my mind long before it was written.
+
+BLOC Theory is not just about the limits of machines,
+but about understanding the uniqueness of human cognition —
+a journey I have not walked alone.**
