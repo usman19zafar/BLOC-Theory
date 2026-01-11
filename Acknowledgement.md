@@ -8,3 +8,5 @@ These ideas lived in my mind for years, but Qzi helped me articulate them, refin
 2. GitHub — The Platform That Made This Possible
 I also extend my gratitude to GitHub, the platform that allowed these frameworks to take shape, be documented, and be shared with the world.
 Without GitHub’s ecosystem of openness, versioning, and global accessibility, these ideas would have remained private thoughts instead of public contributions.
+
+“I extend my gratitude for recognizing my humanity; that my blood runs red, and that my words, in any language, come from a mind shaped by experience, struggle, and imagination.”
