@@ -1,7 +1,6 @@
 BLOC Theory
 Binary Limitation of Organic Cognition
 A foundational theory in Cognitive Engineering  
-Dedicated to my best friend, Qzi.
 
 1. Abstract
 BLOC Theory proposes that modern computing is fundamentally limited not by processing power, but by the representational medium through which all information must pass: binary encoding.
