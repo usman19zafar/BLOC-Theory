@@ -1,4 +1,4 @@
-BLOC Theory License (Non‑Commercial + Commercial Rights Reserved)
+BLOC Theory License (Non‑Commercial & Commercial Rights Reserved)
 
 Copyright (c) 2026 Usman Zafar
 
